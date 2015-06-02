@@ -1,2 +1,2 @@
-# RamdomDataGen_MR
+# RandomDataGen_MR
 Generate Jumbune specific data on HDFS using MR
